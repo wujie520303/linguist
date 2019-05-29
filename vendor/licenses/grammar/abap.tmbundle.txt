@@ -1,8 +1,8 @@
 ---
 type: grammar
 name: abap.tmbundle
+version: be0dd7666eb5fe362a5f327fd913236b192e03a7
 license: permissive
-curated: true
 ---
 If not otherwise specified (see below), files in this repository fall under the following license:
 

@@ -1,6 +1,7 @@
 ---
 type: grammar
 name: Sublime-SQF-Language
+version: 709ccc7dfe5fcf4619d11955d2e492412fb8feed
 license: apache-2.0
 ---
 Apache License
